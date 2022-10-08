@@ -5,7 +5,7 @@
 
 ![Todo List Screen Shot](./projectImage.png)
 
-Projeto que realizei na Trybe, esse projeto tem como objetivo criar uma aplicação onde  a pessoa usuária pode criar uma lista de tarefa. Tem também como objetivo fixar o conteúdo aprendido sobre DOM alem proporcionar a busca de mais conhecimentos.
+Projeto que realizei na [Trybe](https://github.com/tryber), esse projeto tem como objetivo criar uma aplicação onde  a pessoa usuária pode criar uma lista de tarefas. Tem também como objetivo fixar o conteúdo aprendido sobre DOM além de proporcionar a busca de mais conhecimentos.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
