@@ -31,6 +31,10 @@ A pessoa usuária pode selecionar uma tarefa clicando sobre ela, também é poss
 
 <hr>
 
+A pessoa usuária pode marcar uma tarefa como concluída ao clicar duas vezes sobre ela, também é possível remover uma tarefa selecionada ao clicar no botão "REMOVER SELECIONADO".
+Caso queira remover as tarefas concluídas é só clicar no botão "REMOVER CONCLUIDOS"
+Para remover todas as tarefas é só clicar o botão "LIMPAR"
+
 ![Todo List Gif](./removeTask.gif)
 
 
