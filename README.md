@@ -19,7 +19,15 @@ Projeto que realizei na [Trybe](https://github.com/tryber), esse projeto tem com
 
 ## Uso
 
-![Todo List Gif](./projectGif.gif)
+![Todo List Gif](./addTask.gif)
+
+<hr>
+
+![Todo List Gif](./maveTask.gif)
+
+<hr>
+
+![Todo List Gif](./removeTask.gif)
 
 
 
