@@ -29,6 +29,6 @@ Projeto que realizei na [Trybe](https://github.com/tryber), esse projeto tem com
 
 Renan Fernandes - [Linkedin](https://www.linkedin.com/in/orenanfernandes/)
 
-Link do Projeto: [gitHub]()
+Link do Projeto: [gitHub](https://github.com/RenanFernandess/project-todo-list)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
