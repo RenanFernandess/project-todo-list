@@ -25,6 +25,8 @@ Projeto que realizei na [Trybe](https://github.com/tryber), esse projeto tem com
 
 <hr>
 
+A pessoa usuária pode selecionar uma tarefa clicando sobre ela, também é possível alterar a posição da tarefa ao selecioná-la e clicar no botão "MOVER CIMA", que move a tarefa para cima ou no botão "MOVER BAIXO", que move a tarefa para baixo.
+
 ![Todo List Gif](./moveTask.gif)
 
 <hr>
