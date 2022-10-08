@@ -18,7 +18,9 @@ Projeto que realizei na [Trybe](https://github.com/tryber), esse projeto tem com
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Uso
-
+ 
+ A pessoa usuária pode digitar sua tarefa no campo de texto depois clicar no botão "CRIAR" para adicionar.
+ 
 ![Todo List Gif](./addTask.gif)
 
 <hr>
