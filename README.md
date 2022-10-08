@@ -1,19 +1,34 @@
+<a name="readme-top"></a>
 # project-todo-list
+
+## Sobre o Projeto
+
+![Todo List Screen Shot](./projectImage.png)
+
 Projeto que realizei na Trybe, esse projeto tem como objetivo criar uma aplicação onde  a pessoa usuária pode criar uma lista de tarefa. Tem também como objetivo fixar o conteúdo aprendido sobre DOM alem proporcionar a busca de mais conhecimentos.
 
-#### Ferramentas que utilizei:
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Construido Com
  1. **HTML5**
-    - Input
-    - Semantic HTML
  2. **CSS**
-    - Display Flax
  3. **JavaScript**
-    - Function
-    - Higher Order Functions
-    - etc...
  4. **DOM**
-    - LocalStorage
-    - addEventListener
-    - getElementBy
-    - querySelector
-    
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Uso
+
+![Todo List Gif](./projectGif.gif)
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Contato
+
+Renan Fernandes - [Linkedin](https://www.linkedin.com/in/orenanfernandes/)
+
+Link do Projeto: [gitHub]()
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
