@@ -23,7 +23,7 @@ Projeto que realizei na [Trybe](https://github.com/tryber), esse projeto tem com
 
 <hr>
 
-![Todo List Gif](./maveTask.gif)
+![Todo List Gif](./moveTask.gif)
 
 <hr>
 
